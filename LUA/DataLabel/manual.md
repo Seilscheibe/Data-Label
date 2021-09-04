@@ -31,7 +31,6 @@
 
 6. In addition, the constructor file must be at the top of the ``mod.lua`` file and add all files to the AssetBundle
 
-	**-> Important**: The constructor file must be listed first in ``mod.lua``
 	
 	
 ![alt text](https://cdn.discordapp.com/attachments/874660230879924274/883761404098801734/Screenshot_2021-09-04_191002.jpg)
