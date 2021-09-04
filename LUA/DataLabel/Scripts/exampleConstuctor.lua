@@ -5,4 +5,4 @@
 -- notes: open-surce - visible
 -------------------------------------------------
 
-available soon = available soon;
+available soon!
