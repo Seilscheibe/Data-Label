@@ -29,7 +29,7 @@
 
 
 
-6. In addition, the constructor file must be at the top of the ``mod.lua`` file and add all files to the AssetBundle
+6. In addition, the constructor file must be at the top of the ``mod.lua`` and add all files to the AssetBundle
 
 	
 	
