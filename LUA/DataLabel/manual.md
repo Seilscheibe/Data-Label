@@ -17,7 +17,7 @@
 
 
 
-4. Copy from my Table the lines **93** to **103**, and paste it in your DataTable (Station1)
+4. Copy from my [Table](https://github.com/Seilscheibe/WinterResortSimulator/blob/main/LUA/DataLabel/Scripts/exampleTable.lua) the lines **93** to **103**, and paste it in your DataTable (Station1)
 
 ![alt text](https://cdn.discordapp.com/attachments/874660230879924274/883759966014545960/Screenshot_2021-09-04_184439.jpg)
 
