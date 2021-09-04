@@ -5,7 +5,7 @@
 
 
 
-2. Copy my Constructor in your file and change ``RWexampleConstructor`` to your own name
+2. Copy my [Constructor](https://github.com/Seilscheibe/WinterResortSimulator/blob/main/LUA/DataLabel/Scripts/exampleConstuctor.lua) in your file and change ``RWexampleConstructor`` to your own name
  
 ![alt text](https://cdn.discordapp.com/attachments/874660230879924274/883757188101836800/Screenshot_2021-09-04_184253.jpg)
 
