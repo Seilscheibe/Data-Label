@@ -1,5 +1,6 @@
 -------------------------------------------------
 -- author: Seilscheibe RDA
 -- date: 29/08/21
--- filename: customConstuctor.lua
+-- filename: exampleConstuctor.lua
+-- notes: open-surce - visible
 -------------------------------------------------
