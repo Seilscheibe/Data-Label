@@ -38,7 +38,7 @@ function HideableObject:update(dt)
 
     -- when the player is standing near the object
     if player.isActive and self.attacherMasterVehicle == nil and (dx*dx + dy*dy + dz*dz) < self.ObjectDistance then
-        g_GUI:addKeyHint(InputMapper.SwitchableObject,l10n.get(getActive(self.ObjectId)  and "object_invisible" or "object_visible"));
+        g_GUI:addKeyHint(InputMapper.SwitchableObject,l10n.get(getActive(self.ObjectId)  and "object_visible" or "object_invisible"));
 
         -- when the key (in that case "O") is pressed
         if InputMapper:getKeyDown(InputMapper.SwitchableObject) then
