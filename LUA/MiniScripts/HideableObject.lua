@@ -1,10 +1,10 @@
 -------------------------------------------------
 -- author: seilscheibe 
 -- date: 15/10/21
--- project: RDA Extension
+-- project: github - opensource
 -- filename: HideableObject.lua
 -- id: 1
--- last edit: 22/10/21 | 16:45
+-- last edit: 23/10/21 | 18:33
 -------------------------------------------------
 
 InputMapper:addKey("Objects", "SwitchableObject", "O") -- key used to hide your object
@@ -23,7 +23,7 @@ function HideableObject:load(tbl)
     -- if the path to your hideable objects isn´t available
     if tbl.HideableObject == nil then 
         tbl.HideableObject = {};
-        print("HideableObject: Missing ID!") -- if the path wasn´t found in the table
+        print("HideableObject: Missing Id from your Objects!") -- if the path wasn´t found in the table
     end;
 
     self.ObjectId = getChild(self.id, tbl.index or ""); -- path to your object
