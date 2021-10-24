@@ -5,6 +5,7 @@ Have fun browsing :)
 Seilscheibe
 ## Projects
 • [DataLabel](https://github.com/Seilscheibe/WinterResortSimulator/tree/main/LUA/DataLabel)
+• [HideableObjects](https://github.com/Seilscheibe/WinterResortSimulator/tree/main/LUA/MiniScripts/HideableObejct)
 ## Troubleshooting
 **If you have any problems, contact Seilscheibe#4748 or join the [RDA Discord](https://discord.gg/DGPassBKH8).**
 ## License
