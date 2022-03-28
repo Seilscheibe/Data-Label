@@ -1,5 +1,5 @@
 # WinterResortSimulator
-Hi! Here you can find scripts that implement new features in the Winter-Resort-Simulator. For all scripts or mod extensions there is a short and easy to understand manual.
+Hi! Here you can find scripts that implement new features in the Winter-Resort-Simulator. For all scripts or mod extensions there is a short manual.
 Have fun browsing :)
 ## Author
 Seilscheibe
